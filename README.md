@@ -1,0 +1,3 @@
+# TypeScript
+
+* 타입 지정 문법 : union type, type alias, narrowing, assertion, index signature...
