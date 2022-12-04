@@ -5,3 +5,6 @@
 * union type, any, unknown
 * 함수에 타입 지정하기 : void
 * Narrowing & Assertion
+* type alias
+* interface
+* HTML 조작과 변경하기
