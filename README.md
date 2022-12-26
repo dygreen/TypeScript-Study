@@ -8,3 +8,5 @@
 * type alias
 * interface
 * HTML 조작과 변경하기
+* Literal Types
+* 함수와 methods에 type alias 지정하기
