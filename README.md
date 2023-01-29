@@ -10,3 +10,4 @@
 * HTML 조작과 변경하기
 * Literal Types
 * 함수와 methods에 type alias 지정하기
+* 함수 rest 파라미터, destructuring 할 때 타입지정
