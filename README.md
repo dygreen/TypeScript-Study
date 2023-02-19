@@ -13,3 +13,5 @@
 * 함수 rest 파라미터, destructuring 할 때 타입지정
 * 함수에 사용하는 `never` 타입
 * `public`, `private`, `protected`, `static` 키워드
+* `namespace`
+* 타입을 파라미터로 입력 : Generic
