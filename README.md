@@ -15,3 +15,5 @@
 * `public`, `private`, `protected`, `static` 키워드
 * `namespace`
 * 타입을 파라미터로 입력 : Generic
+* array 자료에 붙일 수 있는 tuple type
+* object index signatures
