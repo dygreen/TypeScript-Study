@@ -18,3 +18,6 @@
 * array 자료에 붙일 수 있는 tuple type
 * object index signatures
 * object 타입 변환기 : keyof, type mapping
+* d.ts 파일 이용하기
+* `implements` 키워드
+* 조건문으로 타입 만들기 & `infer`
